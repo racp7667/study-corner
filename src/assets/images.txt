@@ -1,0 +1,5 @@
+Jira - https://cdn-images-1.medium.com/v2/resize:fit:960/0*4SnYUAHn-iZbWVgT.png
+Java - https://www.edoardovignati.it/wp-content/uploads/2019/11/java-banner.png
+JS - https://www.inapps.net/wp-content/uploads/2022/03/javascript-3.jpg 
+SpringBoot - https://miro.medium.com/v2/resize:fit:700/1*xcePhdPcM2tHpR6UKUCdKw.png
+Git - https://www.codingvilla.in/wp-content/uploads/2020/01/images-700x350.png
